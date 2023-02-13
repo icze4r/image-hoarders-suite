@@ -4,7 +4,7 @@ Two things are currently here. One is a customized (as far as I remember?) versi
 
 The SECOND thing is a (as far as I can tell?) MIT-licensed Chrome extension that has VANISHED, and nobody could make it work again. Well, I had a copy that worked. And you're about to get it, toot. :3
 
-For the Save Tabbed Images Chrome extension, just download the zip and drop that shit into your Chrome:extensions tab with the Developer mode on. Should work fine. You can unzip it and try it as well, and you can replace the images used. Pretty simple to customize!
+For the Save Tabbed Images Chrome extension, just download the zip and unzip it and drop that shit (the 0.70 folder or whatever) into your Chrome:extensions tab with the Developer mode on. Should work fine. You can unzip it and try it as well, and you can replace the images used. Pretty simple to customize!
 
 
 ******
@@ -12,7 +12,8 @@ Instructionaters:
 
 - Go to chrome://extensions/
 - turn Developer Mode on
-- Drag and drop Save-Tabbed-Images-orig-gutted.zip into there
+- Unzip Save-Tabbed-Images-orig-gutted.zip because Chrome is mean and doesn't like my zip ;w;
+- Drag and drop the 0.70 folder into there (it's in the zip)
 - Turn that fucker on
 - Pin that shit to your toolbar
 CONGRATULATIONS FUCKER YOU CAN FUCKIN' DOWNLOAD ALL THE IMAGES NOW!!!!!!!!!!!!!!!!!! :3c
