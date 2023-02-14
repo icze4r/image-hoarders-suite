@@ -18,3 +18,6 @@ Instructionaters:
 - Pin that shit to your toolbar
 CONGRATULATIONS FUCKER YOU CAN FUCKIN' DOWNLOAD ALL THE IMAGES NOW!!!!!!!!!!!!!!!!!! :3c
 
+******
+
+orig-renamer.bat is just, you put that in a folder, you run it, it renames all the jpg orig and png orig files to just jpg and png.  
